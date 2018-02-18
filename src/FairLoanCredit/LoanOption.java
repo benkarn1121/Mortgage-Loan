@@ -57,7 +57,7 @@ public class LoanOption  {
 	    Thread.sleep(3000);
 	    driver.findElement(By.xpath("//button[contains(.,'Fair(580 - 639)')]")).click();
 	    driver.findElement(By.xpath("//button[contains(.,'No')]")).click();
-	    Thread.sleep(3000);
+	    Thread.sleep(5000);
 	    
 	    
 	    if(driver.getPageSource().contains("Here are your personalized results"))
