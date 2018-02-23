@@ -9,6 +9,7 @@ public class NetflixLogin extends BaseClass{
 	
 	public NetflixLogin(WebDriver driver) {
 		super(driver);
+		
 	}
 	
 	
