@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.Select;
 public class LoanOption  {
 	
 
-	private WebDriver driver;
+	private WebDriver driver;  
 	  private String baseUrl;
 	  private boolean acceptNextAlert = true;
 	  private StringBuffer verificationErrors = new StringBuffer();
